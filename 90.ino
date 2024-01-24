@@ -31,9 +31,6 @@ void loop() {
   // put your main code here, to run repeatedly:
 
 
-//s1.write(30);
-//delay(1000);
-//s1.write(150);
-//delay(1000);
+
 
 }
